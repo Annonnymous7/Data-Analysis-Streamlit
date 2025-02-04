@@ -37,8 +37,8 @@ streamlit run main.py
 ```
 
 3. Open your web browser and navigate to:
-- Local: http://localhost:8501
-- Network: http://0.0.0.0:8501
+- Local: http://localhost:xxxx (unique to your PC)
+- Network: http://0.0.0.0:xxxx (unique to your PC)
 
 ## Usage
 
